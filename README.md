@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratheeksha Naresh</h1>
 <h3 align="center">AI Student & Software Engineer | Expert in Backend Systems & Deep Learning Research.</h3>
 
-- 🔭 I’m currently working on **AI Agents**
+- I’m currently working on **Transformers,LLMS,VLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nkprathi](https://github.com/nkprathi)
+- All of my projects are available at [https://github.com/nkprathi](https://github.com/nkprathi)
 
-- 📫 How to reach me **pratheeksha.naresh@gmail.com**
+- How to reach me **pratheeksha.naresh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
