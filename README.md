@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratheeksha Naresh</h1>
-<h3 align="center">AI Student & Software Engineer | Expert in Backend Systems & Deep Learning Research.</h3>
+<h3 align="center">Master's AI Engineering of Autonomous Systems | Ex Software Engineer | Expert in Backend Systems & Deep Learning Research.</h3>
 
 - I’m currently working on **Transformers,LLMS,VLMs**
 
